@@ -1,9 +1,9 @@
 # Faculty and Student Perceptions of Generative AI in the Classroom: Data and Code to Reproduce Findings
 
 This repository contains partially aggregated data from the two surveys in
-described in the paper, "*Exploring the Pedagogical Potential: An Investigation into Faculty and Students' Perceptions of Integrating Generative AI in the Classroom*", and that was conducted at our university in the Fall semester of 2024.
-Together with `reproduce.py`, they reproduce the statistics reported in the
-article. No individual responses are included.
+described in the paper, "*Exploring the Pedagogical Potential: An Investigation into Faculty and Students' Perceptions of Integrating Generative AI in the Classroom*". The study was conducted at our university in the Fall semester of 2024.
+While no individual student-level data is inside this repository, the partially aggregated data, 
+together with `reproduce.py`, reproduce the statistics reported in the article. 
 
 **Citation:** article/DOI  TBD 
 
