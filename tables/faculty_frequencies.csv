@@ -1,0 +1,31 @@
+variable,category,n_answered,n_missing_filled,n_published
+Q31 gender,Male,17,0,17
+Q31 gender,Female,36,6,42
+Q31 gender,Non-Binary,1,0,1
+Q31 gender,Prefer not to disclose,2,0,2
+Q21 ethnicity,Asian,1,0,1
+Q21 ethnicity,Black and/or African descent,1,0,1
+Q21 ethnicity,"Hispanic, Latino or Spanish origin",6,0,6
+Q21 ethnicity,White,42,10,52
+Q21 ethnicity,Other (please specify),2,0,2
+Q18 years teaching,1-3 years,5,0,5
+Q18 years teaching,4-6 years,6,0,6
+Q18 years teaching,7-10 years,9,6,15
+Q18 years teaching,More than 10 years,36,0,36
+Q19.1 class size,Fewer than 10 students,1,0,1
+Q19.1 class size,10-15 students,4,0,4
+Q19.1 class size,16-20 students,12,0,12
+Q19.1 class size,21-25 students,20,6,26
+Q19.1 class size,26-30 students,10,0,10
+Q19.1 class size,More than 30 students,9,0,9
+Teaching approach,Mainly teacher-centered,2,0,2
+Teaching approach,More teacher-centered than student-centered,1,0,1
+Teaching approach,Balance between teacher-centered and student-centered,34,0,34
+Teaching approach,More student-centered than teacher-centered,11,5,16
+Teaching approach,Mainly student-centered,9,0,9
+Gen AI Integration,Awareness,1,0,1
+Gen AI Integration,Learning,6,0,6
+Gen AI Integration,Understanding,15,0,15
+Gen AI Integration,Familiarity,13,5,18
+Gen AI Integration,Adaptation,8,0,8
+Gen AI Integration,Creative application,14,0,14

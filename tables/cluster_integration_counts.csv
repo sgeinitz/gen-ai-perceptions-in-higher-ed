@@ -1,0 +1,69 @@
+question,survey_column,cluster,summary,figure_label,integration_level,n
+use_cases,Q27,1,"Creativity enhancement, Educational tool","Creativity enhancement, Educational tool",1,2
+use_cases,Q27,1,"Creativity enhancement, Educational tool","Creativity enhancement, Educational tool",2,2
+use_cases,Q27,1,"Creativity enhancement, Educational tool","Creativity enhancement, Educational tool",3,2
+use_cases,Q27,1,"Creativity enhancement, Educational tool","Creativity enhancement, Educational tool",4,6
+use_cases,Q27,1,"Creativity enhancement, Educational tool","Creativity enhancement, Educational tool",5,7
+use_cases,Q27,2,"Idea generation, Teaching aid","Idea generation, Teaching aid",1,1
+use_cases,Q27,2,"Idea generation, Teaching aid","Idea generation, Teaching aid",2,1
+use_cases,Q27,2,"Idea generation, Teaching aid","Idea generation, Teaching aid",3,1
+use_cases,Q27,2,"Idea generation, Teaching aid","Idea generation, Teaching aid",4,4
+use_cases,Q27,2,"Idea generation, Teaching aid","Idea generation, Teaching aid",5,1
+use_cases,Q27,3,"Assignment assistance, Course content creation, Educational tool","Assignment assistance, Course content creation, Educational tool",1,5
+use_cases,Q27,3,"Assignment assistance, Course content creation, Educational tool","Assignment assistance, Course content creation, Educational tool",2,4
+use_cases,Q27,3,"Assignment assistance, Course content creation, Educational tool","Assignment assistance, Course content creation, Educational tool",3,11
+use_cases,Q27,3,"Assignment assistance, Course content creation, Educational tool","Assignment assistance, Course content creation, Educational tool",4,5
+use_cases,Q27,3,"Assignment assistance, Course content creation, Educational tool","Assignment assistance, Course content creation, Educational tool",5,5
+barriers,Q29,1,"Fear, Lack of understanding, Cost","Fear, lack of knowledge, cost",2,4
+barriers,Q29,1,"Fear, Lack of understanding, Cost","Fear, lack of knowledge, cost",3,3
+barriers,Q29,1,"Fear, Lack of understanding, Cost","Fear, lack of knowledge, cost",4,7
+barriers,Q29,1,"Fear, Lack of understanding, Cost","Fear, lack of knowledge, cost",5,7
+barriers,Q29,2,"Cost, Learning curve","Cost, Learning curve",1,1
+barriers,Q29,2,"Cost, Learning curve","Cost, Learning curve",4,2
+barriers,Q29,2,"Cost, Learning curve","Cost, Learning curve",5,3
+barriers,Q29,3,"Learning curve, Need for training","Learning curve, Need for training",1,2
+barriers,Q29,3,"Learning curve, Need for training","Learning curve, Need for training",3,4
+barriers,Q29,4,"Lack of understanding, Academic integrity","Academic integrity, Lack of understanding",1,3
+barriers,Q29,4,"Lack of understanding, Academic integrity","Academic integrity, Lack of understanding",2,1
+barriers,Q29,4,"Lack of understanding, Academic integrity","Academic integrity, Lack of understanding",3,4
+barriers,Q29,4,"Lack of understanding, Academic integrity","Academic integrity, Lack of understanding",4,2
+barriers,Q29,4,"Lack of understanding, Academic integrity","Academic integrity, Lack of understanding",5,3
+barriers,Q29,5,"Reliability concerns, Need for training","Academic integrity, Need for training, Reliability",1,2
+barriers,Q29,5,"Reliability concerns, Need for training","Academic integrity, Need for training, Reliability",2,3
+barriers,Q29,5,"Reliability concerns, Need for training","Academic integrity, Need for training, Reliability",3,2
+barriers,Q29,5,"Reliability concerns, Need for training","Academic integrity, Need for training, Reliability",4,2
+concerns,Q30,1,"Academic integrity, Misuse and overreliance","Academic integrity, Misuse and overreliance",1,1
+concerns,Q30,1,"Academic integrity, Misuse and overreliance","Academic integrity, Misuse and overreliance",2,2
+concerns,Q30,1,"Academic integrity, Misuse and overreliance","Academic integrity, Misuse and overreliance",3,5
+concerns,Q30,1,"Academic integrity, Misuse and overreliance","Academic integrity, Misuse and overreliance",4,5
+concerns,Q30,1,"Academic integrity, Misuse and overreliance","Academic integrity, Misuse and overreliance",5,2
+concerns,Q30,2,"Ethical implications, Misuse and overreliance, Loss of originality","Ethical implications, Misuse and overreliance, Loss of originality",2,2
+concerns,Q30,2,"Ethical implications, Misuse and overreliance, Loss of originality","Ethical implications, Misuse and overreliance, Loss of originality",4,2
+concerns,Q30,2,"Ethical implications, Misuse and overreliance, Loss of originality","Ethical implications, Misuse and overreliance, Loss of originality",5,6
+concerns,Q30,3,"Academic integrity, Lack of understanding","Academic integrity, Lack of understanding",1,1
+concerns,Q30,3,"Academic integrity, Lack of understanding","Academic integrity, Lack of understanding",3,1
+concerns,Q30,3,"Academic integrity, Lack of understanding","Academic integrity, Lack of understanding",4,1
+concerns,Q30,3,"Academic integrity, Lack of understanding","Academic integrity, Lack of understanding",5,1
+concerns,Q30,4,"Academic integrity, Ethical implications, Misinformation","Academic integrity, Ethical implications, Misinformation",1,5
+concerns,Q30,4,"Academic integrity, Ethical implications, Misinformation","Academic integrity, Ethical implications, Misinformation",2,4
+concerns,Q30,4,"Academic integrity, Ethical implications, Misinformation","Academic integrity, Ethical implications, Misinformation",3,5
+concerns,Q30,4,"Academic integrity, Ethical implications, Misinformation","Academic integrity, Ethical implications, Misinformation",4,5
+concerns,Q30,4,"Academic integrity, Ethical implications, Misinformation","Academic integrity, Ethical implications, Misinformation",5,4
+perceptions,Q28,1,Overall positive perception,Overall positive perception,3,1
+perceptions,Q28,1,Overall positive perception,Overall positive perception,4,2
+perceptions,Q28,1,Overall positive perception,Overall positive perception,5,4
+perceptions,Q28,2,"Ambivalence, Uncertainty","Ambivalence, Uncertainty",1,2
+perceptions,Q28,2,"Ambivalence, Uncertainty","Ambivalence, Uncertainty",2,3
+perceptions,Q28,2,"Ambivalence, Uncertainty","Ambivalence, Uncertainty",3,3
+perceptions,Q28,2,"Ambivalence, Uncertainty","Ambivalence, Uncertainty",4,5
+perceptions,Q28,2,"Ambivalence, Uncertainty","Ambivalence, Uncertainty",5,2
+perceptions,Q28,3,"Advantage with caution, Ethical use, Creativity enhancement","Advantage with caution, Ethical use, Creativity enhancement",1,1
+perceptions,Q28,3,"Advantage with caution, Ethical use, Creativity enhancement","Advantage with caution, Ethical use, Creativity enhancement",2,2
+perceptions,Q28,3,"Advantage with caution, Ethical use, Creativity enhancement","Advantage with caution, Ethical use, Creativity enhancement",3,1
+perceptions,Q28,3,"Advantage with caution, Ethical use, Creativity enhancement","Advantage with caution, Ethical use, Creativity enhancement",4,3
+perceptions,Q28,3,"Advantage with caution, Ethical use, Creativity enhancement","Advantage with caution, Ethical use, Creativity enhancement",5,5
+perceptions,Q28,4,"Advantage, Time-saving, Tool for Learning","Advantage, Time-saving, Tool for Learning",1,5
+perceptions,Q28,4,"Advantage, Time-saving, Tool for Learning","Advantage, Time-saving, Tool for Learning",2,3
+perceptions,Q28,4,"Advantage, Time-saving, Tool for Learning","Advantage, Time-saving, Tool for Learning",3,9
+perceptions,Q28,4,"Advantage, Time-saving, Tool for Learning","Advantage, Time-saving, Tool for Learning",4,5
+perceptions,Q28,4,"Advantage, Time-saving, Tool for Learning","Advantage, Time-saving, Tool for Learning",5,3

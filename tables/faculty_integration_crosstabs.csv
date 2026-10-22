@@ -1,0 +1,37 @@
+variable,category,code,integration_category,integration_code,n
+Teaching approach,Mainly teacher-centered,1,Understanding,3,1
+Teaching approach,Mainly teacher-centered,1,Familiarity,4,1
+Teaching approach,More teacher-centered than student-centered,2,Adaptation,6,1
+Teaching approach,Balance between teacher-centered and student-centered,3,Learning,2,4
+Teaching approach,Balance between teacher-centered and student-centered,3,Understanding,3,9
+Teaching approach,Balance between teacher-centered and student-centered,3,Familiarity,4,8
+Teaching approach,Balance between teacher-centered and student-centered,3,Adaptation,6,4
+Teaching approach,Balance between teacher-centered and student-centered,3,Creative application,7,9
+Teaching approach,More student-centered than teacher-centered,4,Learning,2,2
+Teaching approach,More student-centered than teacher-centered,4,Understanding,3,2
+Teaching approach,More student-centered than teacher-centered,4,Familiarity,4,4
+Teaching approach,More student-centered than teacher-centered,4,Adaptation,6,1
+Teaching approach,More student-centered than teacher-centered,4,Creative application,7,2
+Teaching approach,Mainly student-centered,6,Awareness,1,1
+Teaching approach,Mainly student-centered,6,Understanding,3,3
+Teaching approach,Mainly student-centered,6,Adaptation,6,2
+Teaching approach,Mainly student-centered,6,Creative application,7,3
+Teaching approach,missing,,missing,,5
+Gen AI usage,Never,1,Learning,2,1
+Gen AI usage,Never,1,Adaptation,6,1
+Gen AI usage,Never,1,Creative application,7,1
+Gen AI usage,Rarely,9,Awareness,1,1
+Gen AI usage,Rarely,9,Learning,2,4
+Gen AI usage,Rarely,9,Understanding,3,7
+Gen AI usage,Rarely,9,Familiarity,4,6
+Gen AI usage,Rarely,9,Adaptation,6,2
+Gen AI usage,When necessary,10,Learning,2,1
+Gen AI usage,When necessary,10,Understanding,3,8
+Gen AI usage,When necessary,10,Familiarity,4,6
+Gen AI usage,When necessary,10,Adaptation,6,2
+Gen AI usage,When necessary,10,Creative application,7,5
+Gen AI usage,Often,11,Adaptation,6,3
+Gen AI usage,Often,11,Creative application,7,6
+Gen AI usage,Always,12,Familiarity,4,1
+Gen AI usage,Always,12,Creative application,7,2
+Gen AI usage,missing,,missing,,5

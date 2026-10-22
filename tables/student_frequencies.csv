@@ -1,0 +1,23 @@
+variable,category,n_answered,n_missing_filled,n_published
+Q2 age,18 - 24,209,0,209
+Q2 age,25 - 34,106,2,108
+Q2 age,35 - 44,43,0,43
+Q2 age,45 - 54,13,0,13
+Q2 age,55 - 64,3,0,3
+Q2 age,65 or older,1,0,1
+Q3 gender,Male,121,0,121
+Q3 gender,Female,229,2,231
+Q3 gender,Non-binary / third gender,16,0,16
+Q3 gender,Prefer not to say,8,0,8
+Q3 gender,Others (please specify),1,0,1
+Q4 education,Under Graduate Freshman,57,0,57
+Q4 education,Under Graduate Sophomore,51,0,51
+Q4 education,Under Graduate Junior,103,5,108
+Q4 education,Under Graduate Senior,117,0,117
+Q4 education,Masters Student,38,0,38
+Q4 education,Other(please Specify),6,0,6
+Q5 Gen-AI usage,Never,8,0,8
+Q5 Gen-AI usage,Rarely (once a semester or less),127,0,127
+Q5 Gen-AI usage,Occasionally (a few times a semester),167,1,168
+Q5 Gen-AI usage,Frequently(multiple times a month),49,0,49
+Q5 Gen-AI usage,Very frequently (weekly or more),25,0,25

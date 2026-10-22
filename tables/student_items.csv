@@ -1,0 +1,35 @@
+item,construct,scale,wording,n_answered,mean,sd
+Performance_Effort_1,PE,1-7,Generative AI has enhanced my learning in the classroom.,377,5.151194,1.471703
+Performance_Effort_2,PE,1-7,Generative AI has improved my academic performance.,376,4.949468,1.485784
+Performance_Effort_3,PE,1-7,Generative AI tools has helped me achieve my learning goals.,376,4.954787,1.496655
+Performance_Effort_4,PE,1-7,Generative AI has enhanced the quality of education in the classroom.,376,4.603723,1.599497
+Performance_Effort_5,EE,1-7,Learning to use Generative AI in the classroom was easy for me.,377,5.33687,1.327108
+Performance_Effort_6,EE,1-7,Integrating Generative AI into my coursework required little effort on my part.,377,4.774536,1.574257
+Performance_Effort_7,EE,1-7,Using Generative AI tools was not complicated for me.,375,5.549333,1.329731
+Performance_Effort_8,EE,1-7,It was easy to incorporate Generative AI into my learning routine.,376,5.023936,1.405522
+Social Influence_Fca_2,SI,1-7,I am influenced by the recommendations of my instructors regarding Generative AI.,376,4.720745,1.675606
+Social Influence_Fca_3,SI,1-7,Influential people in my academic community support the use of Generative AI in education.,377,4.498674,1.489546
+Social Influence_Fca_4,SI,1-7,The support and encouragement of my mentors and advisors influence my perception of Generative AI in education.,376,4.558511,1.539129
+Social Influence_Fca_7,FCA,1-7,Integrating Generative AI into the curriculum is supported by my university.,375,3.901333,1.518809
+Social Influence_Fca_8,FCA,1-7,There are no significant barriers or obstacles to using Generative AI in the classroom.,376,4.015957,1.696292
+Social Influence_Fca_9,FCA,1-7,There are sufficient learning materials available for me to understand how to use Generative AI effectively.,377,4.557029,1.592055
+Hedonic Mot_Habit_1,HM,1-7,I find the use of Generative AI in the classroom enjoyable.,375,4.930667,1.387824
+Hedonic Mot_Habit_2,HM,1-7,Using Generative AI stimulated my creativity and imagination.,375,5.096,1.512839
+Hedonic Mot_Habit_3,HM,1-7,The use of Generative AI in the classroom made learning more engaging and fun.,373,4.764075,1.467048
+Hedonic Mot_Habit_5,HA,1-7,I was curious to experiment with different features of Generative AI for learning.,375,5.389333,1.413421
+Hedonic Mot_Habit_6,HA,1-7,I have a habit of using Generative AI tools in my academic activities.,376,3.319149,1.80108
+Hedonic Mot_Habit_7,HA,1-7,I am accustomed to incorporating Generative AI into my learning routine.,377,3.538462,1.824546
+Hedonic Mot_Habit_8,HA,1-7,Using Generative AI has become a regular part of my learning process.,376,3.284574,1.8641
+LV_EIL_1,LV,1-5,Integrating Generative AI in my coursework has positively impacted my learning value.,375,3.728,1.00034
+LV_EIL_2,LV,1-5,Using Generative AI tools has improved my understanding and retention of course material.,375,3.696,1.145463
+LV_EIL_3,LV,1-5,Generative AI has enhanced my ability to collaborate with peers on academic projects.,376,3.167553,1.176503
+LV_EIL_4,LV,1-5,The use of Generative AI in the classroom has made learning more interactive and engaging.,374,3.417112,1.116761
+LV_EIL_5,EIL,1-5,Using Generative AI tools has empowered me to take control of my own learning.,376,3.630319,1.124692
+LV_EIL_6,EIL,1-5,I feel more confident and empowered in my ability to learn with the integration of Generative AI.,376,3.68617,1.087854
+LV_EIL_7,EIL,1-5,Generative AI has allowed me to explore and experiment with learning in new ways.,376,4.037234,0.996642
+LV_EIL_8,EIL,1-5,I believe that Generative AI has empowered me to be a more self-directed learner.,375,3.666667,1.16159
+Behavioral Intention_1,BI,1-7,I plan to continue using Generative AI in my academic pursuits.,374,4.868984,1.489842
+Behavioral Intention_2,BI,1-7,I intend to explore various ways to use Generative AI in my future coursework.,377,4.896552,1.603657
+Behavioral Intention_3,BI,1-7,I would recommend other students to use Generative AI for enhancing their learning experiences.,376,4.912234,1.606257
+Social Influence_Fca_1,SI (deleted),1-7,The opinions of my peers regarding Generative AI in the classroom matter to me.,377,4.04244,1.785968
+Social Influence_Fca_6,FCA (deleted),1-7,I have access to the technology required for using Generative AI in education.,377,5.933687,1.073548

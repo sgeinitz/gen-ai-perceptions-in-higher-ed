@@ -1,0 +1,17 @@
+item,survey_column,reverse_coded,wording,n,mean,sd
+TP1,perceptions01,no,Using Generative AI improves student record.,55,3.145455,0.704961
+TP2,perceptions02,yes,Using Generative AI makes classroom management more difficult.,57,3.438596,1.000313
+TP3,perceptions03,no,"Using Generative AI promotes the development of communication skills (e.g. writing skills, presentation skills).",57,3.315789,1.054885
+TP4,perceptions04,yes,"Using Generative AI requires extra resources, time and effort.",57,3.052632,1.245292
+TP5,perceptions06,no,Using Generative AI is successful only if there’s adequate teacher training in the use of Generative AI in classroom.,57,3.666667,1.139131
+TP6,perceptions07,no,Using Generative AI is successful only if Generative AI is regularly maintained/paid by the department.,57,2.77193,1.052506
+TP7,perceptions08,no,Using Generative AI is an effective tool for students of all abilities,57,3.368421,1.028723
+TP8,perceptions09,no,Using Generative AI is effective if teachers participate in implementation of Generative AI,57,3.929825,0.775971
+TP9,perceptions10,no,Using Generative AI allows to accommodate individual attributes of students.,57,3.298246,0.885698
+TP10,perceptions11,no,Using Generative AI motivates students to get more involved in learning activities.,57,3.280702,0.995604
+TP11,perceptions12,yes,"Using Generative AI requires training, which takes too much time.",57,3.526316,0.983893
+TP12,perceptions13,no,Using Generative AI promotes the development of student interpersonal skills,57,2.526316,0.868193
+TP13,perceptions14,no,Using Generative AI is effective only if extensive technical resources are available,57,2.438596,1.102231
+TP14,perceptions15,yes,Using Generative AI requires extra time to plan learning activities.,57,2.982456,1.217304
+TP15,perceptions16,no,Using Generative AI improves student learning of critical concepts and ideas,57,3.333333,1.023533
+TP16,perceptions17,yes,Using Generative AI is unreasonable due to the lack of subject-specifIc software.,57,4.070175,0.883573

@@ -1,0 +1,5 @@
+question,survey_column,n_responses,min_chars,mean_chars,median_chars,max_chars
+use_cases,Q27,57,24,170.19,121.0,577
+barriers,Q29,55,4,198.82,116.0,3098
+concerns,Q30,52,8,212.25,112.5,3543
+perceptions,Q28,59,7,147.03,116.0,613
